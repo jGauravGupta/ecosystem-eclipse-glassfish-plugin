@@ -37,6 +37,7 @@ Require-Bundle: org.eclipse.debug.ui,
  org.eclipse.m2e.core,
  org.eclipse.m2e.core.ui,
  org.eclipse.m2e.archetype.common,
- org.eclipse.payara.tools
+ org.eclipse.payara.tools,
+ org.eclipse.jdt.launching
 Bundle-Activator: org.eclipse.payara.tools.ui.PayaraToolsUIPlugin
 Import-Package: org.eclipse.ui.navigator.resources
