@@ -27,6 +27,7 @@ import org.eclipse.core.runtime.IPath;
 import org.eclipse.core.runtime.IProgressMonitor;
 import org.eclipse.core.runtime.IStatus;
 import org.eclipse.core.runtime.Path;
+import org.eclipse.jdt.launching.IVMInstall;
 import org.eclipse.payara.tools.PayaraToolsPlugin;
 import org.eclipse.payara.tools.sapphire.IPayaraRuntimeModel;
 import org.eclipse.payara.tools.server.PayaraRuntime;
